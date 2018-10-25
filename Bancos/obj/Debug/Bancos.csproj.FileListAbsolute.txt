@@ -1,0 +1,7 @@
+C:\Users\placi\Desktop\Estudo\DotNet\Bancos\Bancos\obj\Debug\Bancos.csprojAssemblyReference.cache
+C:\Users\placi\Desktop\Estudo\DotNet\Bancos\Bancos\obj\Debug\Bancos.csproj.CoreCompileInputs.cache
+C:\Users\placi\Desktop\Estudo\DotNet\Bancos\Bancos\bin\Debug\Bancos.exe.config
+C:\Users\placi\Desktop\Estudo\DotNet\Bancos\Bancos\bin\Debug\Bancos.exe
+C:\Users\placi\Desktop\Estudo\DotNet\Bancos\Bancos\bin\Debug\Bancos.pdb
+C:\Users\placi\Desktop\Estudo\DotNet\Bancos\Bancos\obj\Debug\Bancos.exe
+C:\Users\placi\Desktop\Estudo\DotNet\Bancos\Bancos\obj\Debug\Bancos.pdb
